@@ -1,4 +1,4 @@
-# Performance Engineering In Practice
+# Performance Engineering In Practice (Manning, 2026)
 
 Code listings and examples from _Performance Engineering in Practice: Fast by Default_ by Den Odell (Manning Publications, 2026).
 
